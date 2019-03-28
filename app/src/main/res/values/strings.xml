@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">weatherforecast</string>
+    <string name="action_settings">Settings</string>
+    <string name="toolbar_name">Sunshine</string>
+    <string name="title_activity_maps">Map</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="detail">Details</string>
+    <string name="settings">Settings</string>
+    <string name="location_layout">location_layout</string>
+    <string name="units_layout">units_layout</string>
+</resources>
